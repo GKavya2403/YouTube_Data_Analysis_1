@@ -1,1 +1,1 @@
-# YouTube_Data_Analysis_1
+# YouTube is an amazing data source for you. There are so many problems we can solve by collecting data from YouTube. So, if you want to learn how to collect data from YouTube and analyze that data to solve a problem, this article is for you. In this article, I’ll take you through the task of YouTube data collection and analysis using Python.
